@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Templo Flutuante","order":8,"parentId":0,"scrollX":816,"scrollY":800},
+{"id":2,"expanded":true,"name":"Salão de Transferência","order":1,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":3,"expanded":true,"name":"Caverna de Pedra","order":2,"parentId":2,"scrollX":973.1999999999999,"scrollY":543.6},
+{"id":4,"expanded":true,"name":"Caverna de Gelo","order":3,"parentId":3,"scrollX":974.4,"scrollY":944.4},
+{"id":5,"expanded":true,"name":"Caverna Amaldiçoada","order":4,"parentId":4,"scrollX":1425.6,"scrollY":1112.3999999999999},
+{"id":6,"expanded":true,"name":"Caverna de Lava","order":5,"parentId":5,"scrollX":974.4,"scrollY":632.4},
+{"id":7,"expanded":true,"name":"Pântano","order":6,"parentId":6,"scrollX":973.1999999999999,"scrollY":1366.8},
+{"id":8,"expanded":false,"name":"Castelo de Demônio","order":7,"parentId":7,"scrollX":974.4,"scrollY":1520.3999999999999},
+{"id":9,"expanded":true,"name":"Templo Flutuante","order":9,"parentId":1,"scrollX":973.1999999999999,"scrollY":886.8}
+]

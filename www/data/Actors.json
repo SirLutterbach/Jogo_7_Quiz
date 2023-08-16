@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Ethan","characterIndex":0,"characterName":"Ethan","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Ethan","traits":[],"initialLevel":99,"maxLevel":99,"name":"Ethan","nickname":"","note":"","profile":"O protagonista da história!"},
+{"id":2,"battlerName":"EthanM","characterIndex":1,"characterName":"Ethan","classId":2,"equips":[2,1,2,3,0],"faceIndex":4,"faceName":"Ethan","traits":[],"initialLevel":99,"maxLevel":99,"name":"Ethan","nickname":"","note":"","profile":"???"}
+]
