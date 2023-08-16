@@ -1,2 +1,2 @@
 # Jogo_7_Quiz
-Jogo criado com a ferramenta RPGMaker, utilizando Js.
+Jogo de aventura criado com a ferramenta RPGMaker solicitado pela faculdade, utilizando Js.
